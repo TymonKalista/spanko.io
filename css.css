@@ -34,3 +34,16 @@ div {
     margin-right: 1cm;
     border: 2px solid red; 
 }
+input[type="submit"] {
+    background-color: green;
+    padding: 10px;
+    color:white;
+    margin-top: 15px;
+}
+
+select,
+input[type="text"]{
+    margin-top: 15px;
+    background-color: blue;
+    padding: 10px;
+}
