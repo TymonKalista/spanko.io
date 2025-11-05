@@ -1,0 +1,22 @@
+[
+    {
+    "Name": "Meta",
+    "IsEthical": false,
+    "Worth in Billions": 1.61
+    },
+    {
+    "Name": "Microsoft",
+    "Date of Creation": 2004,
+    "Worth in Billions": 3.28
+    },
+    {
+    "Name": "Nvidia",
+    "IsEthical": false,
+    "Worth in Billions": 4.89
+    },
+    {
+    "Name": "Apple",
+    "Date of Creation": 1976,
+    "Worth in Billions": 4.89
+    }
+]

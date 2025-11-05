@@ -1,0 +1,32 @@
+<Companies>
+    <Company1>
+        <Country>USA</Country>
+        <Worth>3.28 billions</Worth>
+        <CEO gender="Male">Satya Nadella</CEO>
+        <Name>Microsoft</Name>
+    </Company1>
+    <Company2>
+        <Country>USA</Country>
+        <Worth>3.99 billions</Worth>
+        <CEO gender="Male">Tim Cook</CEO>
+        <Name>Apple</Name>
+
+    </Company2>
+    <Company3>
+        <Country>USA</Country>
+        <Worth>1.61 billions</Worth>
+        <CEO gender="Male">Mark Zuckerberg</CEO>
+        <Name>Meta</Name>
+
+
+    </Company3>
+    <Company4>
+        <Country>USA</Country>
+        <Worth>4.89 billions</Worth>
+        <CEO gender="Male">Jen-Hsun Huang</CEO>
+        <Name>Nvidia</Name>
+
+    </Company4>
+
+
+</Companies>
